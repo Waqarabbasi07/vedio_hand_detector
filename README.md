@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Python API facilitates downloading videos, detecting scenes, and identifying hands within the videos (create folder "**vedio_download**" to save vedio and in this folder create another folder **frame** to save multiple frames). It's built using FastAPI, PyTube, OpenCV, scenedetect, and cvzone.
+This Python API facilitates downloading videos, detecting scenes, and identifying hands within the videos (create folder "**vedio_download**" to save vedio and in this folder create another folder "**frame**" to save multiple frames). It's built using FastAPI, PyTube, OpenCV, scenedetect, and cvzone.
 
 ## Key Features
 
