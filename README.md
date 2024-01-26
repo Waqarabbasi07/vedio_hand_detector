@@ -54,5 +54,3 @@ JSON
 ## Additional Notes
 
 The API attempts to delete processed video files after 5 minutes to conserve storage space.
-Consider potential errors and handle them appropriately in your client-side code.
-For more detailed usage and error handling, refer to the API documentation.
