@@ -1,0 +1,153 @@
+absl-py==2.0.0
+annotated-types==0.6.0
+anyio==4.2.0
+appdirs==1.4.4
+archspec @ file:///croot/archspec_1697725767277/work
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+arrow==1.3.0
+asttokens==2.4.1
+async-lru==2.0.4
+attrs==23.1.0
+Babel==2.14.0
+beautifulsoup4==4.12.2
+bleach==6.1.0
+blinker==1.7.0
+boltons @ file:///C:/ci_311/boltons_1677729932371/work
+boto3==1.34.8
+botocore==1.34.8
+Brotli @ file:///C:/ci_311/brotli-split_1676435766766/work
+certifi @ file:///C:/b/abs_91u83siphd/croot/certifi_1700501720658/work/certifi
+cffi @ file:///C:/b/abs_924gv1kxzj/croot/cffi_1700254355075/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.7
+colorama @ file:///C:/ci_311/colorama_1676422310965/work
+comm==0.2.0
+conda @ file:///C:/b/abs_88drkd35d4/croot/conda_1701719561256/work
+conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1702997573971/work/src
+conda-package-handling @ file:///C:/b/abs_b9wp3lr1gn/croot/conda-package-handling_1691008700066/work
+conda_package_streaming @ file:///C:/b/abs_6c28n38aaj/croot/conda-package-streaming_1690988019210/work
+contourpy==1.2.0
+cryptography @ file:///C:/b/abs_e8cnom_zw_/croot/cryptography_1702071486468/work
+cv==1.0.0
+cvzone==1.6.1
+cycler==0.12.1
+debugpy==1.8.0
+decorator==5.1.1
+defusedxml==0.7.1
+distro @ file:///C:/b/abs_a3uni_yez3/croot/distro_1701455052240/work
+executing==2.0.1
+fastapi==0.108.0
+fastjsonschema==2.19.0
+Flask==3.0.0
+flatbuffers==23.5.26
+fonttools==4.47.0
+fqdn==1.5.1
+h11==0.14.0
+idna @ file:///C:/ci_311/idna_1676424932545/work
+ipykernel==6.27.1
+ipython==8.19.0
+ipywidgets==8.1.1
+isoduration==20.11.0
+itsdangerous==2.1.2
+jedi==0.19.1
+Jinja2==3.1.2
+jmespath==1.0.1
+json5==0.9.14
+jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
+jsonpointer==2.1
+jsonschema==4.20.0
+jsonschema-specifications==2023.12.1
+jupyter==1.0.0
+jupyter-console==6.6.3
+jupyter-events==0.9.0
+jupyter-lsp==2.2.1
+jupyter_client==8.6.0
+jupyter_core==5.5.1
+jupyter_server==2.12.1
+jupyter_server_terminals==0.5.0
+jupyterlab==4.0.9
+jupyterlab-widgets==3.0.9
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.25.2
+kiwisolver==1.4.5
+libmambapy @ file:///C:/b/abs_efpsdwt4ya/croot/mamba-split_1698782663578/work/libmambapy
+MarkupSafe==2.1.3
+matplotlib==3.8.2
+matplotlib-inline==0.1.6
+mediapipe==0.10.9
+menuinst @ file:///C:/b/abs_e8p75b4m9q/croot/menuinst_1702390332729/work
+mistune==3.0.2
+nbclient==0.9.0
+nbconvert==7.13.1
+nbformat==5.9.2
+nest-asyncio==1.5.8
+notebook==7.0.6
+notebook_shim==0.2.3
+numpy==1.26.2
+opencv-contrib-python==4.8.1.78
+opencv-python==4.8.1.78
+overrides==7.4.0
+packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
+pandocfilters==1.5.0
+parso==0.8.3
+Pillow==10.1.0
+platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
+pluggy @ file:///C:/ci_311/pluggy_1676422178143/work
+prometheus-client==0.19.0
+prompt-toolkit==3.0.43
+protobuf==3.20.3
+psutil==5.9.7
+pure-eval==0.2.2
+pycosat @ file:///C:/b/abs_31zywn1be3/croot/pycosat_1696537126223/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic==2.5.3
+pydantic_core==2.14.6
+Pygments==2.17.2
+pyOpenSSL @ file:///C:/b/abs_08f38zyck4/croot/pyopenssl_1690225407403/work
+pyparsing==3.1.1
+PySocks @ file:///C:/ci_311/pysocks_1676425991111/work
+python-dateutil==2.8.2
+python-json-logger==2.0.7
+python-multipart==0.0.6
+pytube==15.0.0
+pywin32==306
+pywinpty==2.0.12
+PyYAML==6.0.1
+pyzmq==25.1.2
+qtconsole==5.5.1
+QtPy==2.4.1
+referencing==0.32.0
+requests @ file:///C:/b/abs_316c2inijk/croot/requests_1690400295842/work
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+rpds-py==0.15.2
+ruamel.yaml @ file:///C:/ci_311/ruamel.yaml_1676439214109/work
+s3transfer==0.10.0
+scenedetect==0.6.1
+Send2Trash==1.8.2
+six==1.16.0
+sniffio==1.3.0
+sounddevice==0.4.6
+soupsieve==2.5
+stack-data==0.6.3
+starlette==0.32.0.post1
+terminado==0.18.0
+tinycss2==1.2.1
+tornado==6.4
+tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
+traitlets==5.14.0
+truststore @ file:///C:/b/abs_55z7b3r045/croot/truststore_1695245455435/work
+types-python-dateutil==2.8.19.14
+typing_extensions==4.9.0
+uri-template==1.3.0
+urllib3 @ file:///C:/b/abs_9cmlsrm3ys/croot/urllib3_1698257595508/work
+uvicorn==0.25.0
+wcwidth==0.2.12
+webcolors==1.13
+webencodings==0.5.1
+websocket-client==1.7.0
+Werkzeug==3.0.1
+widgetsnbextension==4.0.9
+win-inet-pton @ file:///C:/ci_311/win_inet_pton_1676425458225/work
+zstandard==0.19.0
