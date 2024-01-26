@@ -32,6 +32,7 @@ curl -X POST http://127.0.0.1:8000/download_youtube -F url=https://www.youtube.c
 The API returns a JSON response like:
 
 JSON
+```
 {
     "result": [
         {
@@ -48,7 +49,8 @@ JSON
         
     ]
 }
-Use code with caution. Learn more
+```
+
 ## Additional Notes
 
 The API attempts to delete processed video files after 5 minutes to conserve storage space.
