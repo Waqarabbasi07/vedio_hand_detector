@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This Python API facilitates downloading videos, detecting scenes, and identifying hands within the videos. It's built using FastAPI, PyTube, OpenCV, scenedetect, and cvzone.
+This Python API facilitates downloading videos, detecting scenes, and identifying hands within the videos (create folder "**vedio_download**" to save vedio and in this folder create another folder **frame** to save multiple frames). It's built using FastAPI, PyTube, OpenCV, scenedetect, and cvzone.
 
 ## Key Features
 
@@ -26,7 +26,7 @@ Send a POST request to /download_youtube with either a url or video_file paramet
 
 Bash
 curl -X POST http://127.0.0.1:8000/download_youtube -F url=https://www.youtube.com/watch?v=exampleVideo
-Use code with caution. Learn more
+
 ## Output
 
 The API returns a JSON response like:
@@ -45,7 +45,7 @@ JSON
             ],
             "encoded_image": "base64-encoded-image-data"
         },
-        // ... more results for other frames
+        
     ]
 }
 Use code with caution. Learn more
